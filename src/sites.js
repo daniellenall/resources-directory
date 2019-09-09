@@ -34,5 +34,16 @@ export var sites = [
         url: 'https://unsplash.com/',
         desc: 'Free high quality stock images',
         categories: ['design', 'photo', 'stock']
+      },
+      {
+        name: 'Dribbble',
+        url: 'https://dribbble.com',
+        desc: 'Great designs by designers from all over the world',
+        categories: ['design', 'inspiration']
+      },
+      {
+        name: 'One Page Love',
+        url: 'https://onepagelove.com/',
+        desc: 'A curated gallery of one page websites'
       }
 ];
