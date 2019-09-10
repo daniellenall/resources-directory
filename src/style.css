@@ -76,7 +76,12 @@ a:hover {
 .grid-item > p {
   text-align: justify;
 }
+
 .footer {
+  position: absolute; 
+  left: 0 ; 
+  right: 0; 
+  bottom: 0; 
   background: #333;
   color: white;
   width: 100%;
