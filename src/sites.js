@@ -45,5 +45,10 @@ export var sites = [
         name: 'One Page Love',
         url: 'https://onepagelove.com/',
         desc: 'A curated gallery of one page websites'
+      },
+      {
+        name: 'Favicon.io',
+        url: 'https://favicon.io/',
+        desc: 'Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats.'
       }
 ];
