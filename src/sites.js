@@ -50,5 +50,10 @@ export var sites = [
         name: 'Favicon.io',
         url: 'https://favicon.io/',
         desc: 'Generate a favicon from text, from an image, or from an emoji. Download in .ico and .png formats.'
+      }, 
+      {
+        name: 'icons8',
+        url: 'https://icons8.com/icons',
+        desc: 'Download free icons in PNG and SVG'
       }
 ];
