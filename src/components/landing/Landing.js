@@ -4,9 +4,6 @@ import GridItem from '../category-grid/GridItem';
 import {sites} from '../../sites';
 
 class Landing extends Component {
-  constructor(props) {
-    super(props);
-  }
 
   render( 
   ) {
