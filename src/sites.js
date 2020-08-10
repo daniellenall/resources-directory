@@ -55,5 +55,11 @@ export var sites = [
         name: 'icons8',
         url: 'https://icons8.com/icons',
         desc: 'Download free icons in PNG and SVG'
-      }
+      },
+      {
+        name: 'Pexels',
+        url: 'https://www.pexels.com/',
+        desc: 'Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.'
+      },
+
 ];
